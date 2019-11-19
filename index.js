@@ -4,7 +4,7 @@ const [Bessie, , Dolly, Babe, Little] = 'cow horse sheep pig chicken'.split(' ')
 const [black_and_white, , black, pink] = 'cow horse sheep pig chicken'.split(' ')
 
 const colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
-const [, small, giant] = dogs
+const [red, orange, yellow, green, blue, indigo, violet] = colors
 
 const muppet = {
   name: 'Kermit',
