@@ -1,8 +1,10 @@
 const farmAnimals = 'cow horse sheep pig chicken'
 const [moo, neigh, baa, oink, cluck] = 'cow horse sheep pig chicken'.split(' ')
 const [Bessie, , Dolly, Babe, Little] = 'cow horse sheep pig chicken'.split(' ')
+const [black_and_white, , black, pink] = 'cow horse sheep pig chicken'.split(' ')
 
 const colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
+const [, small, giant] = dogs
 
 const muppet = {
   name: 'Kermit',
